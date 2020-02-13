@@ -4,7 +4,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1", shrink-to-fit="no">
-  <title>Aplikasi Track Logistik</title>
+  <title>Nadha Tracking</title>
   <!-- base:css -->
   <link rel="stylesheet" href="ladun/login/vendors/mdi/css/materialdesignicons.min.css">
   <link rel="stylesheet" href="ladun/login/vendors/base/vendor.bundle.base.css">
